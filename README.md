@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+QUICK Over View:
 
 Responsive Application:
 ![alt text](Snapshots/Responsive.gif)
